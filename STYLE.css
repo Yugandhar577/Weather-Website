@@ -58,7 +58,6 @@ body{
     color: #fff;
     background-color: #ababab;
 }
-/* The flex property is used for creating responsive layouts that adapt to varying screen sizes and content sizes */
 .weather-body{
     justify-content: center;
     align-items: center;
